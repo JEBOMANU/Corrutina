@@ -18,3 +18,4 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+![image alt](https://github.com/JEBOMANU/Corrutina/blob/44bc9428b6eba2ee68b3ca839611a80eb903e81e/Captura%20de%20pantalla%202024-12-02%20174102.png)
